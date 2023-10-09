@@ -51,9 +51,6 @@ class Store:
         return tmp
 
 
-
-
-
 if __name__ == '__main__':
 
     product = Product('Стул', 1500, 10)
